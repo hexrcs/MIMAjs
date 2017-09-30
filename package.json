@@ -1,0 +1,24 @@
+{
+  "name": "mimajs",
+  "version": "1.0.0",
+  "description": "A tiny simulator for MInimal MAchine in Javascript",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/thexrcs/MIMAjs.git"
+  },
+  "keywords": [
+    "assembler",
+    "simulator",
+    "MIMA"
+  ],
+  "author": "Xiaoru Li <xiaoru@hillofbreeze.com> (http://hillofbreeze.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gitlab.com/thexrcs/MIMAjs/issues"
+  },
+  "homepage": "https://gitlab.com/thexrcs/MIMAjs#README"
+}
