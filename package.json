@@ -22,6 +22,6 @@
   },
   "homepage": "https://gitlab.com/thexrcs/MIMAjs#README",
   "dependencies": {
-    "bitfriendly": "1.1.1"
+    "bitfriendly": "1.1.2"
   }
 }
