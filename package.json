@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://gitlab.com/thexrcs/MIMAjs/issues"
   },
-  "homepage": "https://gitlab.com/thexrcs/MIMAjs#README"
+  "homepage": "https://gitlab.com/thexrcs/MIMAjs#README",
+  "dependencies": {
+    "bitfriendly": "1.1.1"
+  }
 }
